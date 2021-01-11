@@ -1,0 +1,37 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl 10602_Rubber_Duck_v1_Mat
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 10602_Rubber_Duck_v1_diffuse.jpg
+map_Ka 10602_Rubber_Duck_v1_diffuse.jpg
+
+newmtl 12248_Bird_v1.001
+Ns 23.529412
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.288000 0.288000 0.288000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 12248_Bird_v1_diff.jpg
+map_Ka 12248_Bird_v1_diff.jpg
+
+newmtl Cat.000
+Ns 9.803922
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Cat_diffuse.jpg
